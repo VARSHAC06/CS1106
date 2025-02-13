@@ -1,0 +1,15 @@
+2.
+Q1: How do you change the mode from edit to read-only?
+A1: By clicking <ESC> button
+
+Q2: How do you (a) save the file you are editing, and (b) close the file you're editing?
+A2: (a) :wq and press <ENTER> to save the file which we are editing
+    (b) :q and press <ENTER> to close the file we are editing
+
+Q3: How do you delete (a) letter (b) word (c) sentence?
+A3: x:to delete a letter 
+    dw:to delete a word 
+    d$:to delete a sentence
+
+Q4: You're editing the documemt (in edit mode).Explain how you'll replace one word with another?
+A4: click <R> to replace a word with another 
